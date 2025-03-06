@@ -1,8 +1,9 @@
 Aplikacja Lista Psów
 
-W ramach zajęć przygotowałem aplikację do zarządzania listą psów, umożliwiająca dodawanie, usuwanie oraz oznaczanie ulubionych zwierzaków.
+W ramach zajęć przygotowałem aplikację do zarządzania listą psów, umożliwiająca dodawanie, usuwanie oraz oznaczanie ulubionych zwierzaków. Dane są zapisywane w bazie danych i są dostępne ponownie w trybie ofline. 
 
 Aplikacja posiada następujące funkcje:
+
 Przeglądanie listy psów
 
 ![image](https://github.com/user-attachments/assets/6f7af162-8b0f-4553-94a1-8c3bf984b799)
