@@ -8,7 +8,7 @@ Przeglądanie listy psów
 
 ![image](https://github.com/user-attachments/assets/6f7af162-8b0f-4553-94a1-8c3bf984b799)
 
-Dodawanie nowych psów do listy
+Dodawanie nowych psów do listy, dla których rasa i zdjęcie są pobierane za pomocą Dog API.
 
 
 ![image](https://github.com/user-attachments/assets/b5bb9016-f556-44c4-b962-a05deefaceb8)
