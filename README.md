@@ -1,6 +1,7 @@
 Aplikacja Lista Psów
 
-W ramach zajęć przygotowałem aplikację do zarządzania listą psów, umożliwiająca dodawanie, usuwanie oraz oznaczanie ulubionych zwierzaków. Dane są zapisywane w bazie danych i są dostępne ponownie w trybie ofline. 
+W ramach zajęć przygotowałem aplikację do zarządzania listą psów, umożliwiającą dodawanie, usuwanie oraz oznaczanie ulubionych zwierzaków.
+Dane są zapisywane w bazie danych i pozostają dostępne w trybie offline, nawet po ponownym uruchomieniu aplikacji.
 
 Aplikacja posiada następujące funkcje:
 
@@ -8,7 +9,7 @@ Przeglądanie listy psów
 
 ![image](https://github.com/user-attachments/assets/6f7af162-8b0f-4553-94a1-8c3bf984b799)
 
-Dodawanie nowych psów do listy, dla których rasa i zdjęcie są pobierane za pomocą Dog API.
+Nowe psy można dodawać ręcznie, a rasa oraz zdjęcie są automatycznie pobierane za pomocą Dog CEO API.
 
 
 ![image](https://github.com/user-attachments/assets/b5bb9016-f556-44c4-b962-a05deefaceb8)
@@ -22,7 +23,7 @@ Usuwanie psów za pomocą ikonki kosza
 
 ![image](https://github.com/user-attachments/assets/fb52fad0-f581-49b8-bb13-f27ef01a2e69)
 
-Oznaczanie psów jako ulubionych i wyświetlają się one automatycznie na górze listy 
+Po oznaczeniu psa sercem, zostaje on automatycznie przeniesiony na górę listy ulubionych.
 
 ![image](https://github.com/user-attachments/assets/a7300499-2bec-480b-9f37-f98bf6442ab6)
 
@@ -40,7 +41,7 @@ Po kliknięciu na psa z listy wyświetla się ekran profil psa
 
 ![image](https://github.com/user-attachments/assets/41ec24b8-b17b-4aca-96e1-3b3af6b3b022)
 
-Aplikacja zapisuje dane i są one dostępne w trybie ofiline po resecie aplikacji 
+Aplikacja zapisuje dane w lokalnej bazie danych, dzięki czemu są one dostępne nawet w trybie offline po ponownym uruchomieniu.
 
 ![image](https://github.com/user-attachments/assets/50672228-5120-422a-981b-5022752e3c55)
 
